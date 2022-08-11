@@ -1,6 +1,7 @@
-/**
-*
-*
+/**Class: Intermediate Programming
+* Author: Lilly Vore
+* Course: ITEC 2150 Fall 2022
+* Written: August 11th, 2022
 */
 
 import java.util.Scanner;
