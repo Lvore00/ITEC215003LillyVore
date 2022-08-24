@@ -1,9 +1,9 @@
 /**
- * class:  add class name here
- * name: add your name
- * date: add the date you complete
+ * class:  Intermediate Programming Sec 03
+ * name: Lillian Vore
+ * date: 8/23/2022
  * version: 1.2
- * description: please provide information about this program.
+ * description: Practice Dice Roll Correction
  */
 
 public class Roll {
