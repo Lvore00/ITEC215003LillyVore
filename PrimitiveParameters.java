@@ -1,5 +1,6 @@
 /**
- * class:  Intermediate Programming Sec 03
+ * class:  PrimitiveParameters
+ * course: Intermediate Programming Sec 03
  * name: Lillian Vore
  * date: 8/23/2022
  * version: 1.2
