@@ -1,9 +1,9 @@
 /**
- * class:  add class name here
- * name: add your name
- * date: add the date you complete
+ * class:  Intermediate Programming Sec 03
+ * name: Lillian Vore
+ * date: 8/23/2022
  * version: 1.2
- * description: please provide information about this program.
+ * description: Practice Data Swap
  */
 public class PrimitiveParameters {
     public static void main(String[] args) {
@@ -11,7 +11,6 @@ public class PrimitiveParameters {
         int a = 10, b = 5;
         System.out.printf("Before incorrectSwap: a=%d, b=%d\n", a, b);
         incorrectSwap(a, b);
-      //  System.out.printf("After incorrectSwap: a=%d, b=%d\n", a, b);
     }
 
     public static void incorrectSwap(int a, int b) {
