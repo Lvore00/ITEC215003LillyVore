@@ -1,14 +1,9 @@
-/**Class: Intermediate Programming
-* Author: Lilly Vore
-* Course: ITEC 2150 Fall 2022
-* Written: August 11th, 2022
-*/
 /**
- * class:  add class name here
- * name: add your name
- * date: add the date you complete
+ * class:  Intermediate Prog
+ * name: Lillian Vore
+ * date: 8/23/2022
  * version: 1.2
- * description: please provide information about this program.
+ * description: Pracitce Data Swap
  */
 import java.util.Scanner;
 public class ReviewProgram{
